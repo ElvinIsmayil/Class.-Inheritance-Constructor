@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Class. Inheritance ,Constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9238A039-47E6-446E-B94A-22D8BC1A6489}|Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor.csproj|c:\\users\\elvin\\desktop\\c#\\console\\class. inheritance ,constructor\\class. inheritance ,constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9238A039-47E6-446E-B94A-22D8BC1A6489}|Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor.csproj|solutionrelative:class. inheritance ,constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9238A039-47E6-446E-B94A-22D8BC1A6489}|Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor.csproj|c:\\users\\elvin\\desktop\\c#\\console\\class. inheritance ,constructor\\class. inheritance ,constructor\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9238A039-47E6-446E-B94A-22D8BC1A6489}|Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor.csproj|solutionrelative:class. inheritance ,constructor\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9238A039-47E6-446E-B94A-22D8BC1A6489}|Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor.csproj|c:\\users\\elvin\\desktop\\c#\\console\\class. inheritance ,constructor\\class. inheritance ,constructor\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9238A039-47E6-446E-B94A-22D8BC1A6489}|Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor.csproj|solutionrelative:class. inheritance ,constructor\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9238A039-47E6-446E-B94A-22D8BC1A6489}|Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor.csproj|c:\\users\\elvin\\desktop\\c#\\console\\class. inheritance ,constructor\\class. inheritance ,constructor\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9238A039-47E6-446E-B94A-22D8BC1A6489}|Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor.csproj|solutionrelative:class. inheritance ,constructor\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor\\Project.cs",
+              "RelativeDocumentMoniker": "Class. Inheritance ,Constructor\\Project.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor\\Project.cs",
+              "RelativeToolTip": "Class. Inheritance ,Constructor\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:54:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor\\Employee.cs",
+              "RelativeDocumentMoniker": "Class. Inheritance ,Constructor\\Employee.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor\\Employee.cs",
+              "RelativeToolTip": "Class. Inheritance ,Constructor\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:04:55.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor\\Manager.cs",
+              "RelativeDocumentMoniker": "Class. Inheritance ,Constructor\\Manager.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor\\Manager.cs",
+              "RelativeToolTip": "Class. Inheritance ,Constructor\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:35:00.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor\\Program.cs",
+              "RelativeDocumentMoniker": "Class. Inheritance ,Constructor\\Program.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Class. Inheritance ,Constructor\\Class. Inheritance ,Constructor\\Program.cs",
+              "RelativeToolTip": "Class. Inheritance ,Constructor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:01:16.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

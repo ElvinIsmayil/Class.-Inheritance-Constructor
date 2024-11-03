@@ -1,0 +1,15 @@
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\obj\Debug\net6.0\Class. Inheritance ,Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\obj\Debug\net6.0\Class. Inheritance ,Constructor.AssemblyInfoInputs.cache
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\obj\Debug\net6.0\Class. Inheritance ,Constructor.AssemblyInfo.cs
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\obj\Debug\net6.0\Class. Inheritance ,Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\obj\Debug\net6.0\Class. Inheritance ,Constructor.sourcelink.json
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\bin\Debug\net6.0\Class. Inheritance ,Constructor.exe
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\bin\Debug\net6.0\Class. Inheritance ,Constructor.deps.json
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\bin\Debug\net6.0\Class. Inheritance ,Constructor.runtimeconfig.json
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\bin\Debug\net6.0\Class. Inheritance ,Constructor.dll
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\bin\Debug\net6.0\Class. Inheritance ,Constructor.pdb
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\obj\Debug\net6.0\Class. Inheritance ,Constructor.dll
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\obj\Debug\net6.0\refint\Class. Inheritance ,Constructor.dll
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\obj\Debug\net6.0\Class. Inheritance ,Constructor.pdb
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\obj\Debug\net6.0\Class. Inheritance ,Constructor.genruntimeconfig.cache
+C:\Users\Elvin\Desktop\C#\Console\Class. Inheritance ,Constructor\Class. Inheritance ,Constructor\obj\Debug\net6.0\ref\Class. Inheritance ,Constructor.dll
